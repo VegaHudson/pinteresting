@@ -9,7 +9,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass'
 
-group :develpment, :test do
+group :development, :test do
 	gem 'sqlite3'
 end
 
